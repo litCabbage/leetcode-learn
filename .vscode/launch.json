@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "启动程序",
       "runtimeExecutable": "/Users/sunxianghang/.nvm/versions/node/v10.15.2/bin/node",
-      "program": "${workspaceFolder}/寻找两个有序数组的中位数/index.js"
+      "program": "${file}"
     }
   ]
 }
