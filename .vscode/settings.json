@@ -1,0 +1,8 @@
+{
+  "fileheader.cursorMode": {
+    // 头部注释默认字段
+    "Author": "AndyLee",
+    "Date": "Do not edit", // 设置后默认设置文件生成时间
+    "Description": "",
+  }
+}
